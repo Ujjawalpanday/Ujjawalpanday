@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a [Your Profession or Role] passionate about [Your Interests or Specializations].
 
 ## 🔧 Technologies & Tools
-- Programming Languages: C++ , Java Script
+- Programming Languages: C++ , Java Script , Java with DSA
 - Frameworks & Libraries: React
 - Tools & Platforms: Vs Code 
 
